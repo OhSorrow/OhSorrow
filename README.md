@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/aram-moradian" target="_blank">
+  <a href="https://linkedin.com/in/aram-moradian" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/ohsorrow" target="_blank">
