@@ -43,13 +43,13 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/aram-moradian" target="_blank">
+  <a href="https://linkedin.com/aram-moradian" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="t.me/ohsorrow" target="_blank">
+  <a href="https://t.me/ohsorrow" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  />
   </a>
-  <a href="x.com/AramThoughts" target="_blank">
+  <a href="https://x.com/AramThoughts" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" width="25"  alt="x logo"  />
   </a>
 </div>
